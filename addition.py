@@ -6,4 +6,3 @@ sum= a+b+c
 print("The sum is:", sum)
 sub=a-b+c
 print("The difference is:", sub)
-print("Addition program - Main branch")
